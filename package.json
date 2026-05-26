@@ -1,0 +1,9 @@
+{
+  "name": "xero-pnl-excel-addin",
+  "version": "1.0.0",
+  "description": "Xero P&L Excel add-in — fetch live data from Xero into your spreadsheet",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {}
+}
